@@ -3,20 +3,19 @@
 
 ---
 
-### 🚀 About Me
-- 🌱 I’m currently learning **Dart, Flutter & Java**
-- 💻 Founder of **[Y.K AGENCY](https://yk-agency.com.ua/)** – developed **20+ projects** for clients worldwide
-- 📫 How to reach me: **yuraklyap1103@gmail.com**
+- 📚 I’m currently learning **Dart, Flutter & Java**
+- ❤️ Creator of **[Y.K AGENCY](https://yk-agency.com.ua/)** - we developed **20+ projects** for clients worldwide.
+- ⁉️ How to reach me: **cl9bix.dev@gmail.com**
 
 ---
 
-### 🌟 Featured Projects
-- 🦷 **Dental Clinic Website** — [🔗 Visit project](https://example.com)
-- 🎯 **Charity Foundation Platform (USA)** — [🔗 Visit project](https://example.com)
-- ⚖️ **Lawyer’s Telegram Bot** — [🔗 Visit project](https://example.com)
-- 🛒 **Telegram Shop** — [🔗 Visit project](https://example.com)
-- 💃 **Dance Studio Website (USA)** — [🔗 Visit project](https://example.com)
-- 📚 **Educational Platform Chatbot** — [🔗 Visit project](https://example.com)
+### Some of our Projects
+- 🎯 **Charity Foundation Platform (USA)** — [🔗 Visit project](https://timoshas-smile.org/en)
+- 💃 **Dance Studio Website (USA)** — [🔗 Visit project](https://www.renaissancedancestudio.com/)
+- 🛒 **Telegram Shop** — [🔗 Visit project](https://t.me/cl9bix_shop_bot)
+- 🦷 **Dental Clinic Website** — [🔗 Visit project](https://primadent.uz.ua/)
+- ⚖️ **Lawyer’s Telegram Bot** — [🔗 Visit project](https://t.me/advokat_smirnov_bot)
+- 📚 **Educational Platform Chatbot** — [🔗 Visit project](https://t.me/prml_official_bot)
 
 ---
 
