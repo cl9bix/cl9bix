@@ -3,7 +3,7 @@
 
 ---
 
-- 📚 I’m currently learning **Dart, Flutter & Java**
+- 📚 I’m currently interested i  **Dart, Flutter & Java**
 - ❤️ Creator of **[Y.K AGENCY](https://yk-agency.com.ua/)** - we developed **20+ projects** for clients worldwide.
 - ⁉️ How to reach me: **cl9bix.dev@gmail.com**
 
